@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "cbe9a3ce4d73ed20",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7679ac5f1c2f58c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5672fe433022cd5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e4885f1004d8922",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e15b04289e78b7b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e11d2fdd995e26d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18065b6e00877da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfd18979895f8132",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a39ed70a20b1083",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0106bf5d591bcd1b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a7679ac5f1c2f58c",
+  "lastOpenFiles": [
+    "time/weekly/2022/04/16.md",
+    "time/weekly/2022-W16.md",
+    "time/daily/04/23.md",
+    "time/moment().format(\"ddd, hA\")/2022-04-27.md",
+    "time/moment().format(\"ddd, hA\")/2022-04-20.md",
+    "time/moment().format(\"ddd, hA\")/2022-04-16.md",
+    "time/moment().format(\"ddd, hA\")/2022-04-15.md",
+    "time/daily/2022-04-12.md",
+    "time/weekly/2022-W15.md",
+    "time/daily/2022-04-13.md"
+  ]
+}

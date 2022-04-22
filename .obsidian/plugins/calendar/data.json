@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": false,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "ww",
+  "weeklyNoteTemplate": "",
+  "weeklyNoteFolder": "/time/weekly/2022/04",
+  "localeOverride": "system-default"
+}
